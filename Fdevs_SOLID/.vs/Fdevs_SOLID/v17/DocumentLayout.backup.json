@@ -3,10 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kaiqs\\Desktop\\Fdevs_principios_SOLID\\Fdevs_SOLID\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC42E445-6700-40B6-922B-01C3432FEF8A}|..\\Upper.Fdevs.LSP\\Upper.Fdevs.LSP.csproj|c:\\users\\kaiqs\\desktop\\fdevs_principios_solid\\upper.fdevs.lsp\\solucao_lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7C39CB2-B201-410D-9DE9-9860E0B1A49E}|..\\Upper.Fdevs.ISP\\Upper.Fdevs.ISP.csproj|c:\\users\\kaiqs\\desktop\\fdevs_principios_solid\\upper.fdevs.isp\\solucao_isp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC42E445-6700-40B6-922B-01C3432FEF8A}|..\\Upper.Fdevs.LSP\\Upper.Fdevs.LSP.csproj|c:\\users\\kaiqs\\desktop\\fdevs_principios_solid\\upper.fdevs.lsp\\violacao_lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7C39CB2-B201-410D-9DE9-9860E0B1A49E}|..\\Upper.Fdevs.ISP\\Upper.Fdevs.ISP.csproj|c:\\users\\kaiqs\\desktop\\fdevs_principios_solid\\upper.fdevs.isp\\violacao_isp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C49EBEA5-DDE5-4839-9C92-3BD32A5C70AE}|Upper.Fdevs.OCP\\Upper.Fdevs.OCP.csproj|C:\\Users\\kaiqs\\Desktop\\Fdevs_principios_SOLID\\Fdevs_SOLID\\upper.fdevs.ocp\\solucao_ocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -14,6 +14,12 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC42E445-6700-40B6-922B-01C3432FEF8A}|..\\Upper.Fdevs.LSP\\Upper.Fdevs.LSP.csproj|c:\\users\\kaiqs\\desktop\\fdevs_principios_solid\\upper.fdevs.lsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC42E445-6700-40B6-922B-01C3432FEF8A}|..\\Upper.Fdevs.LSP\\Upper.Fdevs.LSP.csproj|c:\\users\\kaiqs\\desktop\\fdevs_principios_solid\\upper.fdevs.lsp\\violacao_lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC42E445-6700-40B6-922B-01C3432FEF8A}|..\\Upper.Fdevs.LSP\\Upper.Fdevs.LSP.csproj|c:\\users\\kaiqs\\desktop\\fdevs_principios_solid\\upper.fdevs.lsp\\solucao_lsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D80F3A0E-C374-438F-B4B4-DF5AEE44A217}|..\\Upper.Fdevs.SRP\\Upper.Fdevs.SRP.csproj|c:\\users\\kaiqs\\desktop\\fdevs_principios_solid\\upper.fdevs.srp\\violacao_srp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -42,19 +48,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Solucao_ISP.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\Fdevs_principios_SOLID\\Upper.Fdevs.ISP\\Solucao_ISP.cs",
+              "RelativeDocumentMoniker": "..\\Upper.Fdevs.ISP\\Solucao_ISP.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\Fdevs_principios_SOLID\\Upper.Fdevs.ISP\\Solucao_ISP.cs",
+              "RelativeToolTip": "..\\Upper.Fdevs.ISP\\Solucao_ISP.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T20:36:10.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Violacao_ISP.cs",
+              "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\Fdevs_principios_SOLID\\Upper.Fdevs.ISP\\Violacao_ISP.cs",
+              "RelativeDocumentMoniker": "..\\Upper.Fdevs.ISP\\Violacao_ISP.cs",
+              "ToolTip": "C:\\Users\\kaiqs\\Desktop\\Fdevs_principios_SOLID\\Upper.Fdevs.ISP\\Violacao_ISP.cs",
+              "RelativeToolTip": "..\\Upper.Fdevs.ISP\\Violacao_ISP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T20:35:58.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Solucao_LSP.cs",
               "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\Fdevs_principios_SOLID\\Upper.Fdevs.LSP\\Solucao_LSP.cs",
               "RelativeDocumentMoniker": "..\\Upper.Fdevs.LSP\\Solucao_LSP.cs",
               "ToolTip": "C:\\Users\\kaiqs\\Desktop\\Fdevs_principios_SOLID\\Upper.Fdevs.LSP\\Solucao_LSP.cs",
               "RelativeToolTip": "..\\Upper.Fdevs.LSP\\Solucao_LSP.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T20:23:10.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Violacao_LSP.cs",
               "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\Fdevs_principios_SOLID\\Upper.Fdevs.LSP\\Violacao_LSP.cs",
               "RelativeDocumentMoniker": "..\\Upper.Fdevs.LSP\\Violacao_LSP.cs",
@@ -62,7 +94,8 @@
               "RelativeToolTip": "..\\Upper.Fdevs.LSP\\Violacao_LSP.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T20:11:53.676Z"
+              "WhenOpened": "2025-07-16T20:11:53.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -74,7 +107,8 @@
               "RelativeToolTip": "..\\Upper.Fdevs.LSP\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T20:10:59.747Z"
+              "WhenOpened": "2025-07-16T20:10:59.747Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -84,13 +118,14 @@
               "RelativeDocumentMoniker": "Upper.Fdevs.OCP\\Solucao_OCP.cs",
               "ToolTip": "C:\\Users\\kaiqs\\Desktop\\Fdevs_principios_SOLID\\Fdevs_SOLID\\Upper.Fdevs.OCP\\Solucao_OCP.cs",
               "RelativeToolTip": "Upper.Fdevs.OCP\\Solucao_OCP.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T19:30:12.132Z"
+              "WhenOpened": "2025-07-16T19:30:12.132Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Violacao_OCP.cs",
               "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\Fdevs_principios_SOLID\\Fdevs_SOLID\\Upper.Fdevs.OCP\\Violacao_OCP.cs",
               "RelativeDocumentMoniker": "Upper.Fdevs.OCP\\Violacao_OCP.cs",
@@ -102,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\Fdevs_principios_SOLID\\Fdevs_SOLID\\Upper.Fdevs.OCP\\Program.cs",
               "RelativeDocumentMoniker": "Upper.Fdevs.OCP\\Program.cs",
@@ -114,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Solucao_SRP.cs",
               "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\Fdevs_principios_SOLID\\Upper.Fdevs.SRP\\Solucao_SRP.cs",
               "RelativeDocumentMoniker": "..\\Upper.Fdevs.SRP\\Solucao_SRP.cs",
@@ -126,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Violacao_SRP.cs",
               "DocumentMoniker": "C:\\Users\\kaiqs\\Desktop\\Fdevs_principios_SOLID\\Upper.Fdevs.SRP\\Violacao_SRP.cs",
               "RelativeDocumentMoniker": "..\\Upper.Fdevs.SRP\\Violacao_SRP.cs",
