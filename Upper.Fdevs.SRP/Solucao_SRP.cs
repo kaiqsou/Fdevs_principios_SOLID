@@ -13,23 +13,23 @@ namespace Upper.Fdevs.SRP
         // Aqui, o médico terá funções apenas referentes ao seu ramo. É possível deixar ainda mais dividido, ao criar, por exemplo, uma classe de "anestesistas"
         public class Medico
         {
-            public string nome { get; set; }
-            public string cpf { set; get; }
+            public string Nome { get; set; }
+            public string Cpf { set; get; }
             public void Operar() { }
             public void Anestesiar() { }
         }
 
         public class Financeiro
         {
-            public string nome { get; set; }
-            public string cpf { set; get; }
+            public string Nome { get; set; }
+            public string Cpf { set; get; }
             public void EmitirRelatoriosFinanceiros() { }
         }
 
         public class Programador
         {
-            public string nome { get; set; }
-            public string cpf { set; get; }
+            public string Nome { get; set; }
+            public string Cpf { set; get; }
             public void AtualizarSistema() { }
         }
     }

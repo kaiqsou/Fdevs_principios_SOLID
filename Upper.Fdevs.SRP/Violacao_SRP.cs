@@ -12,8 +12,8 @@ namespace Upper.Fdevs.SRP
     {
         public class Medico
         {
-            public string nome { get; set; }
-            public string cpf { set; get; }
+            public string Nome { get; set; }
+            public string Cpf { set; get; }
 
             // Aqui, está sendo atribuída ao médico muitas funções diferentes
             public void Operar(){}
