@@ -1,6 +1,6 @@
 # Desafio — Princípios SOLID — FDevs
 
-**Descrição**: Princípios SOLID são conjuntos de ideias que devem ser seguidos ao escrever um código orientado a objetos, como forma de organização. Neste repositório, você encontrará exemplos de atividades que utilizam destes princípios. <br>
+**Descrição**: Princípios SOLID são conjuntos de ideias que devem ser seguidas ao escrever um código orientado a objetos, como forma de organização. Neste repositório, você encontrará exemplos de atividades que utilizam destes princípios. <br>
 
 Cada letra representa um dos princípios:
 - `S (Single Responsibility Principle - SRP)`: uma classe deve ter apenas uma responsabilidade.
@@ -9,6 +9,6 @@ Cada letra representa um dos princípios:
 - `I (Interface Segregation Principle - ISP)`: as interfaces não devem fazer com que classes utilizem métodos que são desnecessários a elas
 - `D (Dependency Inversion Principle - DIP)`: módulos de alto nível não devem depender de módulos de baixo nível — ambos devem depender de interfaces. <br>
 
-Como base de estudos, dentro do curso fornecido pelo programa FDevs, foi necessário assistir as aulas feitas de **Princípios SOLID** do [Professor Filipe Deschamps](https://www.youtube.com/@FilipeDeschamps), em seu canal no YouTube.
+Como base de estudos, dentro do curso fornecido pela trilha Back-End do programa FDevs, foi necessário assistir as aulas feitas de **Princípios SOLID** do [Professor Filipe Deschamps](https://www.youtube.com/@FilipeDeschamps), em seu canal no YouTube.
 
 
